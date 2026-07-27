@@ -19,7 +19,8 @@ nav:
     - La importancia de los espacios y las mayúsculas: seccion2/
     - Conseguir ayuda en linux: seccion2/comandos-ayuda.png
     - Resumen de la sección: seccion2/resumen.png
-  #- Sección 3 - Comados del sistema de ficheros:
+  - Sección 3 - Comados del sistema de ficheros:
+    - Actividad de retroalimentación grupal: seccion3/actividad.md
   #- Sección 4 - Usuarios y permisos:
   #- Sección 5 - Administración de software:
   #- Sección 6 - Mostrar y filtrar texto:
