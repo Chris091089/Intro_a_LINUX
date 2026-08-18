@@ -24,18 +24,18 @@ nav:
     - Rutas absolutas-relativas: seccion3/rutas.md
     - Uso de comodines: seccion3/comodines.md
     - Evidencias: seccion3/evidencias.md
-  #- Sección 4 - Usuarios y permisos:
-    #- Información sobre usuarios y grupos: seccion4/usuario1.jpg
-    #- Información sobre usuarios y grupos: seccion4/usuario2.jpg
-    #- Crear usuarios y grupos: seccion4/usuario3.jpg
-    #- Crear usuarios y grupos: seccion4/usuario4.jpg
-    #- Los permisos en los ficheros y cambiar de permisos: seccion4/permisos.pdf
-  #- Sección 5 - Administración de software:
-    #- Configuración de repositorios_Gestión de software en Linux (apt): seccion5/software.md
-  #- Sección 6 - Mostrar y filtrar texto:
-    #- Mostrar texto comando ECHO: seccion6/ECHO.md
-    #- Mostrando texto comando CAT: seccion6/CAT.md
-    #- Seleccionar partes de una línea comando CUT: seccion6/CUT.md
+  - Sección 4 - Usuarios y permisos:
+    - Información sobre usuarios y grupos: seccion4/usuario1.jpg
+    - Información sobre usuarios y grupos: seccion4/usuario2.jpg
+    - Crear usuarios y grupos: seccion4/usuario3.jpg
+    - Crear usuarios y grupos: seccion4/usuario4.jpg
+    - Los permisos en los ficheros y cambiar de permisos: seccion4/permisos.pdf
+  - Sección 5 - Administración de software:
+    - Configuración de repositorios_Gestión de software en Linux (apt): seccion5/software.md
+  - Sección 6 - Mostrar y filtrar texto:
+    - Mostrar texto comando ECHO: seccion6/ECHO.md
+    - Mostrando texto comando CAT: seccion6/CAT.md
+    - Seleccionar partes de una línea comando CUT: seccion6/CUT.md
   #- Sección 7 - Tuberias y redirecciones:
     #- Ver sección 7: seccion7/
   #- Sección 8 - Acciones sobre texto:
