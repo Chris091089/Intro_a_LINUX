@@ -36,14 +36,14 @@ nav:
     - Mostrar texto comando ECHO: seccion6/ECHO.md
     - Mostrando texto comando CAT: seccion6/CAT.md
     - Seleccionar partes de una línea comando CUT: seccion6/CUT.md
-  #- Sección 7 - Tuberias y redirecciones:
-    #- Ver sección 7: seccion7/
-  #- Sección 8 - Acciones sobre texto:
-    #- Manos a la obra: seccion8/texto.md
-  #- Sección 9 - Otros comandos del sistema de ficheros:
-    #- Sistema de ficheros(archivo 1): seccion9/H6N1-Taiwan.fa
-    #- Comando FILE: seccion9/FILE.md
-    #- Comando ln: seccion9/LN.md
+  - Sección 7 - Tuberias y redirecciones:
+    - Ver sección 7: seccion7/
+  - Sección 8 - Acciones sobre texto:
+    - Manos a la obra: seccion8/texto.md
+  - Sección 9 - Otros comandos del sistema de ficheros:
+    - Sistema de ficheros(archivo 1): seccion9/H6N1-Taiwan.fa
+    - Comando FILE: seccion9/FILE.md
+    - Comando ln: seccion9/LN.md
   #- Sección 10 - Búsquedas en el sistema de ficheros:
     #- Comando LOCATE: seccion10/locate.md
     #- Comando FIND: seccion10/find.md
