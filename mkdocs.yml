@@ -44,15 +44,15 @@ nav:
     - Sistema de ficheros(archivo 1): seccion9/H6N1-Taiwan.fa
     - Comando FILE: seccion9/FILE.md
     - Comando ln: seccion9/LN.md
-  #- Sección 10 - Búsquedas en el sistema de ficheros:
-    #- Comando LOCATE: seccion10/locate.md
-    #- Comando FIND: seccion10/find.md
-  #- Sección 11 - Ampliando conocimientos del Shell Bash de Linux:
-    #- Acortar líneas de ordenes: seccion11/alias.md
-    #- Variables de entorno y sustitución de comandos: seccion11/var-ent.md
-  #- Sección 12 - Comprime y crea copias de seguridad Backups:
-    #- Compresión de archivos con TAR: seccion12/tar.md
-    #- Resumen: seccion12/resumen.pdf
-  #- Sección 13 - Gestión de paquetes con dpkg:
-    #- Comando para administrar paquetes sin repositorios dpkg: seccion13/dpkg.md
+  - Sección 10 - Búsquedas en el sistema de ficheros:
+    - Comando LOCATE: seccion10/locate.md
+    - Comando FIND: seccion10/find.md
+  - Sección 11 - Ampliando conocimientos del Shell Bash de Linux:
+    - Acortar líneas de ordenes: seccion11/alias.md
+    - Variables de entorno y sustitución de comandos: seccion11/var-ent.md
+  - Sección 12 - Comprime y crea copias de seguridad Backups:
+    - Compresión de archivos con TAR: seccion12/tar.md
+    - Resumen: seccion12/resumen.pdf
+  - Sección 13 - Gestión de paquetes con dpkg:
+    - Comando para administrar paquetes sin repositorios dpkg: seccion13/dpkg.md
   #- Sección 14 - Administración de usuarios, grupos y contraseñas:
