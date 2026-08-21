@@ -56,6 +56,6 @@ nav:
   - Sección 13 - Gestión de paquetes con dpkg:
     - Comando para administrar paquetes sin repositorios dpkg: seccion13/dpkg.md
   - Sección 14 - Administración de usuarios, grupos y contraseñas:
-    - Adminstración de usuariós grupos y contraseñas: secion14/contrasienas.md
+    - Adminstración de usuariós grupos y contraseñas: seccion14/contrasienas.md
     - Comodin1 barra bin barra bash: seccion14/barrabin.md
     - Comodin2 rsync: seccion14/rsync.md
